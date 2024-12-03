@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="layout_marginBottom">15dp</dimen>
+    <dimen name="layout_marginEndfirstlast">15dp</dimen>
+    <dimen name="paddingLeftrightlayoutall">15dp</dimen>
+    <dimen name="SignupAccounttextsize">40sp</dimen>
+    <dimen name="textView4size">15sp</dimen>
+    <dimen name="buttonCreateAccounttextsize">20sp</dimen>
+
+</resources>

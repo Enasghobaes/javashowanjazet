@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">tasbeeh4</string>
+    <string name="Firstname">الاسم الأول</string>
+    <string name="Lastname">الاسم الثاني</string>
+    <string name="Email">البريد الإلكتروني</string>
+    <string name="Password">كلمة المرور</string>
+    <string name="RePassword">اعد كلمة المرور</string>
+    <string name="buttonCreateAccount">انشاء حساب</string>
+    <string name="textView6">لديك حساب بالفعل</string>
+    <string name="textView7">تسجيل دخول</string>
+    <string name="SignupAccount">انشاء حساب</string>
+    <string name="textView4">اكتشف وسائل التواصل الاجتماعي الخاصة بك و حاول التسجيل</string>
+
+
+</resources>

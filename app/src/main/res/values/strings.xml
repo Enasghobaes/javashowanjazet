@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">tasbeeh4</string>
+    <string name="Firstname">First Name</string>
+    <string name="Lastname">Last Name</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="RePassword">Re_Password</string>
+    <string name="buttonCreateAccount">Create Account</string>
+    <string name="textView6">Already have an account</string>
+    <string name="textView7">Login</string>
+    <string name="SignupAccount">Sign up Account</string>
+    <string name="textView4">Discover your social &amp; Try to sign up</string>
+
+
+</resources>
